@@ -12,7 +12,7 @@ function Hero() {
           </h1>
           <p className="text-center md:text-start">
             At DriveEase, we offer an effortless and reliable car rental
-            experience tailored to your needs. Whether it's for business trips,
+            experience tailored to your needs. Whether it&apos;s for business trips,
             family vacations, or quick city rides, our wide selection of
             vehicles ensures you&apos;ll find the perfect fit.
           </p>
