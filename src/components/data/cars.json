@@ -1,0 +1,139 @@
+{
+   "cars": [
+    {
+        "id": 1,
+        "title": "Honda Civic",
+        "Company": "honda",
+        "model": "22-24",
+        "feulType": "Diesel",
+        "transmissionType": "Auto",
+        "image": "/cars/honda-cars/honda-civic.png"
+    },
+    {
+        "id": 2,
+        "title": "Honda City",
+        "Company": "honda",
+        "model": "21-22",
+        "feulType": "Diesel",
+        "transmissionType": "Auto",
+        "image": "/cars/honda-cars/honda-city.png"
+    },
+    {
+        "id": 3,
+        "title": "Honda HRV",
+        "Company": "honda",
+        "model": "22",
+        "feulType": "Diesel",
+        "transmissionType": "Auto",
+        "image": "/cars/honda-cars/honda-hrv.png"
+    },
+    {
+        "id": 4,
+        "title": "Fortuner-Legender",
+        "Company": "toyota",
+        "model": "23-24",
+        "feulType": "Diesel",
+        "transmissionType": "Auto",
+        "image": "/cars/toyota-cars/fortuner-legender.png"
+    },
+    {
+        "id": 5,
+        "title": "Toyota Hilux",
+        "Company": "toyota",
+        "model": "20-22",
+        "feulType": "Diesel",
+        "transmissionType": "Auto/Manual",
+        "image": "/cars/toyota-cars/hilux.png"
+    },
+    {
+        "id": 6,
+        "title": "Corolla Grande",
+        "Company": "toyota",
+        "model": "22-23",
+        "feulType": "Petrol",
+        "transmissionType": "Manual",
+        "image":"/cars/toyota-cars/grande.png"
+    },
+    {
+        "id": 7,
+        "title": "Audi R8",
+        "Company": "audi",
+        "model": "23",
+        "feulType": "Petrol",
+        "transmissionType": "Auto",
+        "image": "/cars/audi-cars/audi-r8.png"
+    },
+    {
+        "id": 8,
+        "title": "Audi S5",
+        "Company": "audi",
+        "model": "22",
+        "feulType": "Petrol",
+        "transmissionType": "Auto",
+        "image": "/cars/audi-cars/audi-s5.png"
+    },
+    {
+        "id": 9,
+        "title": "Audi A7",
+        "Company": "audi",
+        "model": "20",
+        "feulType": "Petrol",
+        "transmissionType": "Auto",
+        "image": "/cars/audi-cars/audi-a7.png"
+    },
+    {
+        "id": 10,
+        "title": "Hyndai Sonata",
+        "Company": "hyundai",
+        "model": "21-23",
+        "feulType": "Petrol",
+        "transmissionType": "Auto",
+        "image": "/cars/hyundai-cars/sonata.png"
+    },
+    {
+        "id": 11,
+        "title": "Hyundai Elantra",
+        "Company": "hyundai",
+        "model": "22-23",
+        "feulType": "Gas",
+        "transmissionType": "Auto",
+        "image": "/cars/hyundai-cars/elantra.png"
+    },
+    {
+        "id": 12,
+        "title": "Hyndai Tucson",
+        "Company": "hyundai",
+        "model": "23-24",
+        "feulType": "Diesel",
+        "transmissionType": "Auto",
+        "image": "/cars/hyundai-cars/tucson.png" 
+    },
+    {
+        "id": 13,
+        "title": "Suzuki Alto",
+        "Company": "suzuki",
+        "model": "20-23",
+        "feulType": "Petrol",
+        "transmissionType": "Auto/Manual",
+        "image": "/cars/suzuki-cars/alto.png" 
+    },
+    {
+        "id": 14,
+        "title": "Suzuki Swift",
+        "Company": "suzuki",
+        "model": "21-23",
+        "feulType": "Petrol",
+        "transmissionType": "Auto/Manual",
+        "image": "/cars/suzuki-cars/swift.png" 
+    },
+    {
+        "id": 15,
+        "title": "Suzuki Van",
+        "Company": "suzuki",
+        "model": "19-20",
+        "feulType": "Petrol",
+        "transmissionType": "Manual",
+        "image": "/cars/suzuki-cars/suzuki-van.png" 
+    }
+   ]
+}
